@@ -32,33 +32,13 @@ const Contact = () => {
           <div className="connect">
             <div className="left">
               <ul>
-                <li>
-                  <span className="name">Call:</span>
-                  <p>
-                    <a className="line_effect" href="https://api.whatsapp.com/send/?phone=6287704758658">
-                    +62 877-0475-8658
-                    </a>
-                  </p>
-                </li>
-                <li>
-                  <span className="name">Email:</span>
-                  <p>
-                    <a className="line_effect" href="mailto:code.hakimfirman@gmail.com">
-                      code.hakimfirman@gmail.com
-                    </a>
-                  </p>
-                </li>
               </ul>
             </div>
             <div className="right">
               <div className="orido_tm_follow">
                 <span>Follow me:</span>
                 <ul>
-                  <li>
-                    <a href="https://www.linkedin.com/in/hakimfirman/">
-                      <img className="svg" src="img/svg/social/linkedin.svg" alt="" />
-                    </a>
-                  </li>
+               
                   <li>
                   <a href="https://github.com/hakim-firman">
                     <img className="svg" src="img/svg/social/github.svg" alt="" />
