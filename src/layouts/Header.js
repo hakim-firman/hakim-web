@@ -25,7 +25,7 @@ const Header = ({ dark }) => {
               <a href="#blog">Blog</a>
             </li>
             <li>
-              <a href="#contact">Contact</a>
+              <a href="#contact">Upwork</a>
             </li>
           </ul>
           <span className="ccc" />

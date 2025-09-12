@@ -10,8 +10,8 @@ const CopyRight = () => {
             <div className="copy">
               <p>
                 © {new Date().getFullYear()} by{" "}
-                <a href="https://themeforest.net/user/codeefly" target="_blank">
-                  Codeefly.
+                <a href="https://www.upwork.com/freelancers/~013dc58e5a38fc86dd" target="_blank">
+                  Hakim Firman.
                 </a>{" "}
                 All Rights Reserved
               </p>

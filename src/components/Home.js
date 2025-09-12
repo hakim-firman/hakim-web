@@ -17,13 +17,13 @@ const Home = ({ dark }) => {
             </div>
             <div className="buttons">
               <div className="orido_tm_boxed_button">
-                <a className="anchor" href="#contact">
-                  Say Hello{" "}
+                <a className="anchor" href="#about">
+                  About Me{" "}
                   <img className="svg" src="img/svg/send.svg" alt="" />
                 </a>
               </div>
               <div className="orido_tm_simple_button">
-                <a className="line_effect anchor" href="https://github.com/hakim-firman">
+                <a className="line_effect anchor" href="#portfolio">
                   My Works{" "}
                   <img className="svg" src="img/svg/top-arrow.svg" alt="" />
                 </a>
@@ -35,8 +35,8 @@ const Home = ({ dark }) => {
           <span>Follow me:</span>
           <ul>
             <li>
-              <a href="https://www.linkedin.com/in/hakimfirman/">
-                <img className="svg" src="img/svg/social/linkedin.svg" alt="" />
+              <a href="https://www.upwork.com/freelancers/~013dc58e5a38fc86dd">
+                <img className="svg" src="img/svg/social/upwork.svg" alt="" />
               </a>
             </li>
             <li>
