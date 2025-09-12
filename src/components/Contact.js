@@ -34,7 +34,7 @@ const Contact = () => {
               <ul>
               </ul>
             </div>
-            <div className="right">
+            {/* <div className="right">
               <div className="orido_tm_follow">
                 <span>Follow me:</span>
                 <ul>
@@ -50,7 +50,7 @@ const Contact = () => {
                   </li>
                 </ul>
               </div>
-            </div>
+            </div> */}
           </div>
         </div>
         <span className="element">

@@ -32,18 +32,18 @@ const Home = ({ dark }) => {
           </div>
         </div>
         <div className="orido_tm_follow">
-          <span>Follow me:</span>
+          <span>See My Professional Side </span>
           <ul>
             <li>
               <a href="https://www.upwork.com/freelancers/~013dc58e5a38fc86dd">
                 <img className="svg" src="img/svg/social/upwork.svg" alt="" />
               </a>
             </li>
-            <li>
+            {/* <li>
               <a href="https://github.com/hakim-firman">
                 <img className="svg" src="img/svg/social/github.svg" alt="" />
               </a>
-            </li>
+            </li> */}
            
           </ul>
         </div>
